@@ -1,17 +1,23 @@
-<p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
-</p>
 
-## Open-wc Starter App
 
-[![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
+
+## MovieSearcher
+Made with 
+
+<img src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript"/>
+<img src="https://img.shields.io/badge/CSS-505050?style=flat&logo=CSS3"/>
+<img src="https://img.shields.io/badge/HTML-505050?style=flat&logo=HTML5"/>
+<img src="https://img.shields.io/badge/LitElement-505050?logo=Polymer Project&style=flat"/>
+
+
+A simple app made with LitElement where you can search movies by typing something in the searcher.
 
 ## Quickstart
 
 To get started:
 
 ```bash
-npm init @open-wc
+npm start
 # requires node 10 & npm 6 or higher
 ```
 
@@ -27,4 +33,11 @@ npm init @open-wc
 
 For most of the tools, the configuration is in the `package.json` to reduce the amount of files in your project.
 
-If you customize the configuration a lot, you can consider moving them to individual files.
+## Author
+- Claudia Martínez Herrero
+
+<img src="https://img.shields.io/badge/claudiamh-blue?style=for-the-badge&logo=LinkedIn"/>
+
+<img src="https://img.shields.io/badge/claumartinezh@gmail.com-E0E0E0?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/claumartinez-000?style=for-the-badge&logo=github"/>
