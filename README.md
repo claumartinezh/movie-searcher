@@ -1,14 +1,8 @@
-
-
-
 ## MovieSearcher
 Made with 
 
-<img src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript"/>
-<img src="https://img.shields.io/badge/CSS-505050?style=flat&logo=CSS3"/>
-<img src="https://img.shields.io/badge/HTML-505050?style=flat&logo=HTML5"/>
-<img src="https://img.shields.io/badge/LitElement-505050?logo=Polymer Project&style=flat"/>
-
+<img src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript"/> <img src="https://img.shields.io/badge/CSS-505050?style=flat&logo=CSS3"/>
+<img src="https://img.shields.io/badge/HTML-505050?style=flat&logo=HTML5"/> <img src="https://img.shields.io/badge/LitElement-505050?logo=Polymer Project&style=flat"/>
 
 A simple app made with LitElement where you can search movies by typing something in the searcher.
 
@@ -36,8 +30,4 @@ For most of the tools, the configuration is in the `package.json` to reduce the 
 ## Author
 - Claudia Martínez Herrero
 
-<img src="https://img.shields.io/badge/claudiamh-blue?style=for-the-badge&logo=LinkedIn"/>
-
-<img src="https://img.shields.io/badge/claumartinezh@gmail.com-E0E0E0?style=for-the-badge&logo=gmail"/>
-
-<img src="https://img.shields.io/badge/claumartinez-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/claudiamh-blue?style=for-the-badge&logo=LinkedIn"/> <img src="https://img.shields.io/badge/claumartinezh@gmail.com-E0E0E0?style=for-the-badge&logo=gmail"/> <img src="https://img.shields.io/badge/claumartinez-000?style=for-the-badge&logo=github"/>
